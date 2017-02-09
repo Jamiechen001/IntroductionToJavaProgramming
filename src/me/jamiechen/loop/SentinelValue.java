@@ -12,7 +12,7 @@ public class SentinelValue {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
-        int number = 0;
+        int number;
         String output = " ";
 
         System.out.print("请输入一个整数，并以输入 0 作为结束： ");
